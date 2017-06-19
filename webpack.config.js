@@ -47,6 +47,6 @@ module.exports = [{
 			}
 		]
 	},
-  externals: ['tone'],
+	externals: {'tone': 'Tone'},
 	devtool : PROD ? '' : '#eval-source-map'
 }];
