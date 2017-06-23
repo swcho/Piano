@@ -9,7 +9,7 @@
   "author": "Yotam Mann",
   "license": "MIT",
   "dependencies": {
-    "tone": "^0.8.0"
+    "tone": "^0.10.0"
   },
   "devDependencies": {
     "babel-core": "^6.11.4",
